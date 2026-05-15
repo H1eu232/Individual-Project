@@ -16,8 +16,10 @@ This strategy required minimal code changes and kept the original Express applic
 
 ## Cold Start
 
-![Encryption at rest](./images/Encryption-and-MultiAZ-configuration.png)
+![cold start](./images/cold-start.png)
 
 ## API Gateway URL
 
 https://5mhhzzpex8.execute-api.us-west-2.amazonaws.com/default/hieu-byol-node-express
+
+![URL test](./images/Endpoint.png)
