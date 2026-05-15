@@ -23,3 +23,5 @@ This strategy required minimal code changes and kept the original Express applic
 https://5mhhzzpex8.execute-api.us-west-2.amazonaws.com/default/hieu-byol-node-express
 
 ![URL test](./images/Endpoint.png)
+
+![Lambda console](./images/Lambdaconsole.png)
